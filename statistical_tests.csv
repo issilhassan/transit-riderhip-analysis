@@ -1,0 +1,6 @@
+test_name,statistic,p_value,interpretation
+Shapiro-Wilk Chicago,0.950360843048897,3.6721398173350516e-36,Non-normal
+Shapiro-Wilk Philadelphia,0.9159311251992848,4.3061070551211724e-44,Non-normal
+T-test Chicago vs Philadelphia,46.38589179520206,0.0,Différence significative
+ANOVA Weekday vs Weekend,1460.246594706834,1.37737990629245e-283,Différence significative
+Corrélation Pearson Bus (J vs J-1),0.4704965982945787,,Corrélation modérée

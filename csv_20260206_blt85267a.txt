@@ -1,0 +1,7 @@
+Issue Key,Summary,Status,Assignee,Estimate,Actual,Sprint
+INT-101,Transformation RDF Chicago → CSV,Done,Hassan Issil,8h,7.5h,Sprint 1
+INT-102,Modélisation étoile Power BI (faits + dimensions),Done,Hassan Issil,6h,6h,Sprint 1
+INT-103,Implémentation mesures DAX avancées,Done,Hassan Issil,5h,4.5h,Sprint 1
+INT-104,Tests statistiques Python (Shapiro, T-test, ANOVA, Pearson),Done,Hassan Issil,8h,9h,Sprint 1
+INT-105,Dashboard Power BI 2 pages + prédictions ARIMA,Done,Hassan Issil,10h,11h,Sprint 1
+INT-106,Documentation GitHub + README,In Progress,Hassan Issil,3h,1h,Sprint 1

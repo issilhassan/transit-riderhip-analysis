@@ -1,0 +1,9 @@
+line_id,line_name,mode,city,line_key
+red_line,Red Line,Rail,Chicago,1
+blue_line,Blue Line,Rail,Chicago,2
+bus_80,Bus Route 80,Bus,Chicago,3
+bus_151,Bus Route 151,Bus,Chicago,4
+bus_11,Route 11,Bus,Philadelphia,5
+bus_10,Route 10,Bus,Philadelphia,6
+rail_market,Market-Frankford Line,Rail,Philadelphia,7
+bus_21,Route 21,Bus,Philadelphia,8
